@@ -1,1 +1,1 @@
-# FOE_LoanLynk
+LoanLynk empowers informed decision-making by streamlining the loan application process through a comprehensive platform providing clear comparisons of loan options from banks and NBFCs, personalized guidance using GenAI, negotiable lending terms, and transparency in terms and costs, thereby eliminating hidden fees.
